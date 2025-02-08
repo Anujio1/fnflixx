@@ -8,7 +8,7 @@ import 'package:nekoflow/data/models/stream_model.dart';
 
 class AnimeService {
   static const String baseUrl =
-      "https://aniwatch-api-instance.vercel.app/api/v2/hianime";
+      "https://ani-api-self.vercel.app/api/v2/hianime";
   final Dio _dio = Dio();
 
   AnimeService() {
