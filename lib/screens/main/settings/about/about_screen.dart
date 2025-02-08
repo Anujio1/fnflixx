@@ -5,10 +5,10 @@ import 'package:hugeicons/hugeicons.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class AboutScreen extends StatelessWidget {
-  final String githubUrl = 'https://github.com/Darkx-dev/ShonenX';
-  final String email = 'darkx.dev.23@gmail.com';
-  final String instagramUrl = 'https://www.instagram.com/darkx.dev.23/';
-  final String telegramUrl = 'https://t.me/dark_dev_23';
+ final String githubUrl = 'https://github.com/darkxco';
+  final String email = 'darkxco@gmail.com';
+  final String instagramUrl = 'https://www.instagram.com/darkx.dev/';
+  final String telegramUrl = 'https://t.me/darkxco';
   final String title;
   const AboutScreen({super.key, required this.title});
 
